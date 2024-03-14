@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Moda</string>
+    <string name="fashionTitle">The Crewneck Kobalt Mavisi</string>
+    <string name="sweaterTitle">Kazak</string>
+    <string name="smallSizeText">S</string>
+    <string name="mediumSizeText">M</string>
+    <string name="largeSizeText">L</string>
+    <string name="xlargeSizeText">XL</string>
+    <string name="priceText">Fiyat</string>
+    <string name="priceText2">1959.29 ₺</string>
+    <string name="cartText">Sepete ekle</string>
+</resources>

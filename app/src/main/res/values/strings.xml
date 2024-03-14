@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fashion</string>
+    <string name="fashionTitle">The Crewneck Cobalt Blue</string>
+    <string name="sweaterTitle">Sweater</string>
+    <string name="smallSizeText">S</string>
+    <string name="mediumSizeText">M</string>
+    <string name="largeSizeText">L</string>
+    <string name="xlargeSizeText">XL</string>
+    <string name="priceText">Price</string>
+    <string name="priceText2">$60.99</string>
+    <string name="cartText">Add to cart</string>
+</resources>
