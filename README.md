@@ -1,17 +1,23 @@
 Designing an ui page of the fashion app with using java
 
-Light Mode
-![lightmode](https://github.com/tumerkankarabel/DesignFashionApp/assets/37531352/f5dd19d3-5ab5-44e0-9f42-772c4b9a1d8c)
+Light Mode (US)
+
+![lightmode-us](https://github.com/tumerkankarabel/DesignFashionApp/assets/37531352/d6a2cec1-d0a4-4e88-b4d8-c75cabe5e052)
 
 
-Dark Mode
-![darkmode](https://github.com/tumerkankarabel/DesignFashionApp/assets/37531352/096815f5-1c82-4ef2-99ef-f66e168533d5)
+Dark Mode (US)
+
+![darkmode_us](https://github.com/tumerkankarabel/DesignFashionApp/assets/37531352/7ea2cccb-7403-4673-ab6a-d24318066dfa)
+
 
 
 
 Light Mode (TR)
-![lightmode_tr](https://github.com/tumerkankarabel/DesignFashionApp/assets/37531352/e61703f4-6737-461e-9daa-eec1eba0eb00)
+
+![lightmode_tr](https://github.com/tumerkankarabel/DesignFashionApp/assets/37531352/b4100c84-9e07-4ae7-a798-41c0b14d3101)
 
 
 Dark Mode (TR)
-![darkmode_tr](https://github.com/tumerkankarabel/DesignFashionApp/assets/37531352/200ec780-9b51-4b01-b379-76a5195d733f)
+
+![darkmode_tr](https://github.com/tumerkankarabel/DesignFashionApp/assets/37531352/8fafa41a-b1bf-4421-bee8-e5035a46f124)
+
