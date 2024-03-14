@@ -6,3 +6,12 @@ Light Mode
 
 Dark Mode
 ![darkmode](https://github.com/tumerkankarabel/DesignFashionApp/assets/37531352/096815f5-1c82-4ef2-99ef-f66e168533d5)
+
+
+
+Light Mode (TR)
+![lightmode_tr](https://github.com/tumerkankarabel/DesignFashionApp/assets/37531352/e61703f4-6737-461e-9daa-eec1eba0eb00)
+
+
+Dark Mode (TR)
+![darkmode_tr](https://github.com/tumerkankarabel/DesignFashionApp/assets/37531352/200ec780-9b51-4b01-b379-76a5195d733f)
